@@ -208,7 +208,7 @@
 }
 
 .monospace {
-  font-family: var(--mono);
+  font-family: var(--ft-mono);
 }
 
 /* Font size */
